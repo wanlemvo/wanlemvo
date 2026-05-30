@@ -26,6 +26,23 @@ AI-powered information processing tool designed to help users quickly understand
 
 Operational intelligence platform that transforms unstructured shift reports into actionable business insights.
 
+# Portfolio Philosophy
+
+I build systems that transform information into action.
+
+Many problems are not caused by a lack of information.
+
+They are caused by information being fragmented, difficult to retrieve, difficult to understand, or difficult to act upon.
+
+My projects explore different forms of intelligence augmentation:
+
+- Aktiv → Learning Intelligence
+- BriefMe → Information Intelligence
+- NetOps → Relationship Intelligence
+- ShiftNotes → Operational Intelligence
+
+The common theme across these projects is reducing friction between information and action.
+
 ## Currently Learning
 
 * Machine Learning
