@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Isaac 👋
 
-<!--
-**wanlemvo/wanlemvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development (AI) student focused on building systems that transform information into action.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Learning Systems & Educational Technology
+- Operational Intelligence & Process Optimization
+- Healthcare Analytics
+- Telecom Technology & Infrastructure
+- Data Science & Predictive Modeling
+- Interactive Software & Game Systems
+
+## Featured Projects
+
+### Aktiv
+
+AI-guided learning system that enforces active recall, feedback, and reflection to prevent passive studying.
+
+### BriefMe
+
+AI-powered information processing tool designed to help users quickly understand and act on important information.
+
+### ShiftNotes
+
+Operational intelligence platform that transforms unstructured shift reports into actionable business insights.
+
+## Currently Learning
+
+* Machine Learning
+* AI Application Development
+* Software Engineering
+* Data Structures & Algorithms
+
+## Long-Term Vision
+
+Building technology that improves decision-making, accountability, and access to opportunity at scale.
