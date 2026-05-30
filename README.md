@@ -2,8 +2,6 @@
 
 Software Development (AI) student focused on building systems that transform information into action.
 
-## Interests
-
 ## Areas of Interest
 
 - Artificial Intelligence & Machine Learning
