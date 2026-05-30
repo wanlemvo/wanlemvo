@@ -2,31 +2,7 @@
 
 Software Development (AI) student focused on building systems that transform information into action.
 
-## Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Learning Systems & Educational Technology
-- Operational Intelligence & Process Optimization
-- Healthcare Analytics
-- Telecom Technology & Infrastructure
-- Data Science & Predictive Modeling
-- Interactive Software & Game Systems
-
-## Featured Projects
-
-### Aktiv
-
-AI-guided learning system that enforces active recall, feedback, and reflection to prevent passive studying.
-
-### BriefMe
-
-AI-powered information processing tool designed to help users quickly understand and act on important information.
-
-### ShiftNotes
-
-Operational intelligence platform that transforms unstructured shift reports into actionable business insights.
-
-# Portfolio Philosophy
+## Portfolio Philosophy
 
 I build systems that transform information into action.
 
@@ -42,6 +18,34 @@ My projects explore different forms of intelligence augmentation:
 - ShiftNotes → Operational Intelligence
 
 The common theme across these projects is reducing friction between information and action.
+
+## Featured Projects
+
+### Aktiv
+
+AI-guided learning system that enforces active recall, feedback, and reflection to prevent passive studying.
+
+### BriefMe
+
+AI-powered information processing tool designed to help users quickly understand and act on important information.
+
+### NetOps
+
+Relationship intelligence system designed to preserve human context, track interactions, and support long-term relationship management.
+
+### ShiftNotes
+
+Operational intelligence platform that transforms unstructured shift reports into actionable business insights.
+
+## Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Learning Systems & Educational Technology
+- Operational Intelligence & Process Optimization
+- Healthcare Analytics
+- Telecom Technology & Infrastructure
+- Data Science & Predictive Modeling
+- Interactive Software & Game Systems
 
 ## Currently Learning
 
